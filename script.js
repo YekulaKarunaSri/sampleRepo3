@@ -1,5 +1,5 @@
 
 function showMessage() {
     document.getElementById("message").innerText =
-        "Welcome to Product Management System!";
+        "WelcME to Product Management System!";
 }
